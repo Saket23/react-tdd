@@ -15,3 +15,7 @@ body {
 Button {
   margin: 10px;
 }
+
+.input-person,.input-present {
+    margin:10px;
+}
